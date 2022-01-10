@@ -1,0 +1,135 @@
+* {
+    box-sizing: border-box;
+    font-family: 'arsenalregular';
+  }
+
+.column {
+  Width: 100%;
+  margin-top: 4em;
+  }
+
+.column-1, .column-2 {
+  width:100%;
+  padding: 2em;
+  }
+
+.column-1 {
+  text-align: right;
+  }
+
+.column-2 { 
+  padding-right: 5em;
+  padding-left: 5em;
+  padding-bottom: 5em;
+  padding-top: 0em;
+
+  }
+  
+.column-1 li {
+  list-style-type: none;
+  padding: 0; 
+  margin: 0;
+}
+
+.hero_name {
+  font-size: 1.5em;
+}
+
+@media (min-width: 48em) {
+  .column-1 {
+    width: 18%;
+    float:left;
+    border-right: 1px solid #000000;
+  }
+  
+  .column-2 {
+    width: 82%;
+    float:left;
+  }
+    
+  .columns {
+        content:"";
+        display: table;
+        clear: both;
+      }
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+  .column-2 { 
+    padding: 1.25em;
+    }
+
+  .column-1 {
+    text-align: center;
+    }
+  .column-1 ul li {
+    list-style-type: none;
+    list-style-position: inside;
+    padding: 0; 
+    margin: 0;
+    -webkit-padding-start: 0;
+    list-style: none;
+  }
+}
+
+.flex-container {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  -ms-box-orient: horizontal;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -moz-flex;
+  display: -webkit-flex;
+  display: flex;
+  justify-content: space-around;
+}
+
+.wrap    { 
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.wrap li {
+  border-radius: 12px;
+  padding: 20px;
+}
+
+.flex-item {
+  border: 1px solid #bcbcbc;
+  border: ;
+  padding: 5px;
+  width: 480px;
+  height: 320px;
+  margin: 40px;
+  
+  line-height: 520px;
+  color: white;
+  font-weight: bold;
+  font-size: 2em;
+  text-align: center;
+}
+
+.flex-item:hover {
+  webkit-filter: blur(4px);
+  filter: blur(4px);
+}
+
+.navigation {
+  padding-bottom: 1.5em;
+  text-align: right;
+  font-size: 1.5em;
+}
+
+.column-2 p {
+  font-family: 'arsenalregular';
+  font-size: 1.25em;
+  text-align: justify;
+}
