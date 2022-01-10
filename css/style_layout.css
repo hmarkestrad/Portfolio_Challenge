@@ -17,6 +17,11 @@ html {
   text-decoration: none;
   }
 
+  .column a:hover {
+    color: #ff6200;
+  text-decoration: none;
+  }
+
 .column-1, .column-2 {
   width:100%;
   padding: 2em;
