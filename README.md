@@ -18,7 +18,7 @@ Draft a Portfolio to review previous work. The portfolio should contain the foll
 This site was developed using the following technologies:  
 * HTML (HyperText Markup Language)  
 * CSS (Cascading Style Sheets)  
-* JS (JavaScript)    
+* JS (JavaScript)  
 ## Website  
 The site can be accessed at the following hyperlink:  
 https://hmarkestrad.github.io/Portfolio_Challenge/  
