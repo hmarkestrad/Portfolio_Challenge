@@ -22,5 +22,7 @@ This site was developed using the following technologies:
 ## Website  
 The site can be accessed at the following hyperlink:  
 https://hmarkestrad.github.io/Portfolio_Challenge/  
+## Screenshot Link:  
+https://github.com/hmarkestrad/Portfolio_Challenge/blob/8bc10683e9f2c0d85dcc75d08dcfc6e2858d5045/Screen%20Shot%202022-01-09.jpg  
 ## Contribution  
-Made by Hector Mark Estrada • 01-09-2022
+Made by Hector Mark Estrada • 01-18-2022
