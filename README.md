@@ -25,4 +25,4 @@ https://hmarkestrad.github.io/Portfolio_Challenge/
 ## Screenshot:  
 ![PORTFOLIO CHALLENGE - ESTRADA](https://github.com/hmarkestrad/Portfolio_Challenge/blob/main/images/Screenshot.jpg)  
 ## Contribution  
-Made by Hector Mark Estrada • 01-18-2022  
+Made by Hector Mark Estrada • 01-18-2022 REV 02-14-2022  
